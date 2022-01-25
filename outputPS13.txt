@@ -1,0 +1,47 @@
+
+--------Function showAll--------
+Total No. of trainers: 5
+Total No. of subjects: 8
+
+List of Trainers: 
+Mariam
+Steeve
+Peter
+Stella
+Martin
+
+List of Subjects: 
+AI
+DS
+ML
+DM
+CO
+DBMS
+MDS
+DSAD
+-----------------------------------------
+
+--------Function displayRecruitList --------
+No of trainers required to cover all subjects: 4
+Steeve / ML / DM / CO / DBMS
+Peter / DS / ML / CO / MDS
+Stella / AI / DS / ML / DSAD
+Martin / AI / DS / ML / MDS
+-----------------------------------------
+
+--------Function displayTrainers --------
+List of trainers who can teach ML:
+Mariam
+Steeve
+Peter
+Stella
+Martin
+-----------------------------------------
+
+--------Function displayTrainers --------
+List of trainers who can teach DS:
+Mariam
+Peter
+Stella
+Martin
+-----------------------------------------
